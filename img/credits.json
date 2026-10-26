@@ -17,6 +17,12 @@
   "licence": "CC BY-SA 4.0",
   "url": "https://commons.wikimedia.org/wiki/File:Acid_mine_drainage_at_Tilt_Cove.jpg"
  },
+ "adwa": {
+  "file": "Detail, \"Battle of Adwa\" (2141834582).jpg",
+  "author": "A. Davey from Where I Live Now: Pacific Northwest",
+  "licence": "CC BY 2.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Detail,_%22Battle_of_Adwa%22_(2141834582).jpg"
+ },
  "aeroplane": {
   "file": "BA aircraft taking off at Glasgow - geograph.org.uk - 7115774.jpg",
   "author": "Thomas Nugent",
@@ -100,6 +106,12 @@
   "author": "Lamiot",
   "licence": "CC BY-SA 3.0",
   "url": "https://commons.wikimedia.org/wiki/File:Aphids_on_nasturtium_stem_1730b.JPG"
+ },
+ "asante-gold-weights": {
+  "file": "Brooklyn Museum 74.218.18 Weight.jpg",
+  "author": "Unknown authorUnknown author",
+  "licence": "CC BY 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_74.218.18_Weight.jpg"
  },
  "astronaut": {
   "file": "Bruce McCandless II during EVA in 1984.jpg",
@@ -191,6 +203,12 @@
   "licence": "CC BY-SA 3.0",
   "url": "https://commons.wikimedia.org/wiki/File:Cappadocia_Balloon_Inflating_Wikimedia_Commons.JPG"
  },
+ "bambatha": {
+  "file": "Bhambatha and warriors.png",
+  "author": "Unknown authorUnknown author",
+  "licence": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:Bhambatha_and_warriors.png"
+ },
  "bamboo": {
   "file": "Bamboo in Ninfa Garden.JPG",
   "author": "Dorotanm",
@@ -208,6 +226,12 @@
   "author": "Yoky",
   "licence": "CC BY-SA 3.0",
   "url": "https://commons.wikimedia.org/wiki/File:Adansonia_digitata_Baobab.JPG"
+ },
+ "barney-barnato": {
+  "file": "Barney Frank at the Kimmel Center for the Performing Arts.jpg",
+  "author": "Payton Chung from Chicago, USA",
+  "licence": "CC BY 2.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Barney_Frank_at_the_Kimmel_Center_for_the_Performing_Arts.jpg"
  },
  "batteries": {
   "file": "AA Batteries (51825378856).jpg",
@@ -263,6 +287,12 @@
   "licence": "CC BY-SA 4.0",
   "url": "https://commons.wikimedia.org/wiki/File:Vittoria_Randonneur_tire_(trekking_bicycle).jpg"
  },
+ "big-hole-kimberley": {
+  "file": "Open pit mine.jpg",
+  "author": "Irene2005",
+  "licence": "CC BY 2.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Open_pit_mine.jpg"
+ },
  "biogas": {
   "file": "Dry - solid-state anaerobic digestion AD biogas plant.jpg",
   "author": "Thzorro77",
@@ -304,6 +334,12 @@
   "author": "Harrison Schmitt / Apollo 17",
   "licence": "Public domain",
   "url": "https://commons.wikimedia.org/wiki/File:The_Blue_Marble,_AS17-148-22727.jpg"
+ },
+ "boer-war-camp": {
+  "file": "Garden of Remembrance at War Museum, Bloemfontein.jpg",
+  "author": "Laydi of History",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Garden_of_Remembrance_at_War_Museum,_Bloemfontein.jpg"
  },
  "boy-sleeping": {
   "file": "Miscellaneous. Boy in bed-asleep LOC nclc.05274.jpg",
@@ -358,6 +394,12 @@
   "author": "EstherDje",
   "licence": "CC BY-SA 4.0",
   "url": "https://commons.wikimedia.org/wiki/File:Brown_sugar.jpg"
+ },
+ "brt-rea-vaya": {
+  "file": "Michelle Wu - Sustainable Transport Superheroes Swap Notes (3).png",
+  "author": "Streetfilms",
+  "licence": "CC BY 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Michelle_Wu_-_Sustainable_Transport_Superheroes_Swap_Notes_(3).png"
  },
  "bullfrog": {
   "file": "Pyxicephalus adspersus, Boston Aquarium.jpg",
@@ -431,6 +473,12 @@
   "licence": "CC0",
   "url": "https://commons.wikimedia.org/wiki/File:Campfire_Flames.jpg"
  },
+ "canal-barge": {
+  "file": "Bridgewater Canal with Europa Gate above, plus narrowboat - geograph.org.uk - 2992953.jpg",
+  "author": "Alexander P Kapp",
+  "licence": "CC BY-SA 2.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Bridgewater_Canal_with_Europa_Gate_above,_plus_narrowboat_-_geograph.org.uk_-_2992953.jpg"
+ },
  "candle": {
   "file": "Candle Flame (21733).jpg",
   "author": "SarKaLay စာကလေး",
@@ -442,6 +490,18 @@
   "author": "Bjoertvedt",
   "licence": "CC BY-SA 3.0",
   "url": "https://commons.wikimedia.org/wiki/File:Naja_nivea_IMG_5081_Kappkobra.jpg"
+ },
+ "cape-to-cairo": {
+  "file": "Rhodes no nose.JPG",
+  "author": "Prosthetic Head",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Rhodes_no_nose.JPG"
+ },
+ "cape-town-cbd": {
+  "file": "Killarney Race Track in Tableview Cape Town.jpg",
+  "author": "SkyPixels",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Killarney_Race_Track_in_Tableview_Cape_Town.jpg"
  },
  "car-exhaust": {
   "file": "Car Smoke.jpg",
@@ -460,6 +520,12 @@
   "author": "Ahecht",
   "licence": "CC BY-SA 4.0",
   "url": "https://commons.wikimedia.org/wiki/File:Cardboard_tube.jpg"
+ },
+ "cargo-plane": {
+  "file": "B-2097@PEK (20140607121657).JPG",
+  "author": "N509FZ",
+  "licence": "CC BY-SA 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:B-2097@PEK_(20140607121657).JPG"
  },
  "carrots": {
   "file": "Carrots at Ljubljana Central Market.JPG",
@@ -491,17 +557,41 @@
   "licence": "CC BY-SA 3.0",
   "url": "https://commons.wikimedia.org/wiki/File:Nelson_Bay_Cave,_Robberg_Penninsula,_Plettenberg_Bay,_South_Africa.jpg"
  },
+ "cbd-johannesburg": {
+  "file": "Johannesburg skyline.jpg",
+  "author": "Khaanya96",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Johannesburg_skyline.jpg"
+ },
+ "cecil-rhodes": {
+  "file": "Cecil Rhodes by Violet manners.jpg",
+  "author": "Violet Manners, Duchess of Rutland",
+  "licence": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:Cecil_Rhodes_by_Violet_manners.jpg"
+ },
  "centipede": {
   "file": "Scolopendra gigantea.jpg",
   "author": "Katka Nemčoková",
   "licence": "CC BY-SA 3.0",
   "url": "https://commons.wikimedia.org/wiki/File:Scolopendra_gigantea.jpg"
  },
+ "cetshwayo": {
+  "file": "Cetshwayo kaMpande blue plaque.jpg",
+  "author": "Megalit",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Cetshwayo_kaMpande_blue_plaque.jpg"
+ },
  "chameleon": {
   "file": "Flap-necked chameleon (Chamaeleo dilepis) female 2.jpg",
   "author": "Charles J. Sharp",
   "licence": "CC BY-SA 4.0",
   "url": "https://commons.wikimedia.org/wiki/File:Flap-necked_chameleon_(Chamaeleo_dilepis)_female_2.jpg"
+ },
+ "chartists-petition": {
+  "file": "Chartist meeting, Kennington Common.jpg",
+  "author": "William Edward Kilburn",
+  "licence": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:Chartist_meeting,_Kennington_Common.jpg"
  },
  "cheese": {
   "file": "Quesos-LaRural-00921.jpg",
@@ -569,6 +659,12 @@
   "licence": "CC BY 2.0",
   "url": "https://commons.wikimedia.org/wiki/File:Melting_chocolate_chips.jpg"
  },
+ "cholera-pump": {
+  "file": "Broadwick street pump and John Snow pub.jpg",
+  "author": "Whispyhistory",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Broadwick_street_pump_and_John_Snow_pub.jpg"
+ },
  "chrysalis": {
   "file": "Pupa of Danaus chrysippus (Linnaeus, 1758) – Plain Tiger.jpg",
   "author": "Sourabh.biswas003",
@@ -629,6 +725,12 @@
   "licence": "CC BY-SA 2.0",
   "url": "https://commons.wikimedia.org/wiki/File:Lumps_of_coal.jpg"
  },
+ "cocoa-pods": {
+  "file": "20151118-OSEC-UNK-2929 (23822775342).jpg",
+  "author": "USDAgov",
+  "licence": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:20151118-OSEC-UNK-2929_(23822775342).jpg"
+ },
  "coconut-beach": {
   "file": "Coconut-Beach-Badagry.jpg",
   "author": "Dejiabimbola320",
@@ -646,6 +748,12 @@
   "author": "Philsacor",
   "licence": "CC0",
   "url": "https://commons.wikimedia.org/wiki/File:A_bottle_of_cold_water_with_droplets.jpg"
+ },
+ "colonial-railway-africa": {
+  "file": "Cape to Cairo Ry., Congo, ca. 1900-1915 (IMP-CSCNWW33-OS10-82).jpg",
+  "author": "Unknown authorUnknown author",
+  "licence": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:Cape_to_Cairo_Ry.,_Congo,_ca._1900-1915_(IMP-CSCNWW33-OS10-82).jpg"
  },
  "comb": {
   "file": "Plastic comb, 2015-06-07.jpg",
@@ -676,6 +784,12 @@
   "author": "iMahesh",
   "licence": "CC BY-SA 4.0",
   "url": "https://commons.wikimedia.org/wiki/File:Concrete_Mixture_at_a_construction_site.jpg"
+ },
+ "container-ship": {
+  "file": "Weekend trip to Nanaimo - BC Ferries from Duke Point to Tswassen - Roberts Bank coal port - loading a container ship - (19534665252).jpg",
+  "author": "Murray Foubister",
+  "licence": "CC BY-SA 2.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Weekend_trip_to_Nanaimo_-_BC_Ferries_from_Duke_Point_to_Tswassen_-_Roberts_Bank_coal_port_-_loading_a_container_ship_-_(19534665252).jpg"
  },
  "copper-pipes": {
   "file": "2 inch copper pipe firestops.jpg",
@@ -719,6 +833,12 @@
   "licence": "CC BY-SA 4.0",
   "url": "https://commons.wikimedia.org/wiki/File:Cotton_plant,_Ware_County,_GA,_US.jpg"
  },
+ "cotton-mill": {
+  "file": "Quarry Bank Mill Weaving Shed - geograph.org.uk - 3001508.jpg",
+  "author": "David Dixon",
+  "licence": "CC BY-SA 2.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Quarry_Bank_Mill_Weaving_Shed_-_geograph.org.uk_-_3001508.jpg"
+ },
  "cotton-reels": {
   "file": "Reels (AM 14029).jpg",
   "author": "Unknown authorUnknown author",
@@ -755,11 +875,23 @@
   "licence": "CC BY-SA 2.0",
   "url": "https://commons.wikimedia.org/wiki/File:Jumper_Wires_with_Crocodile_Clips.jpg"
  },
+ "cromford-mill": {
+  "file": "Cromford mill pond.jpg",
+  "author": "Photograph by Mike Peel (www.mikepeel.net).",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Cromford_mill_pond.jpg"
+ },
  "crushed-cans": {
   "file": "Crushed cans (9691248780).jpg",
   "author": "Ruth Hartnup from Vancouver, Canada",
   "licence": "CC BY 2.0",
   "url": "https://commons.wikimedia.org/wiki/File:Crushed_cans_(9691248780).jpg"
+ },
+ "crystal-palace": {
+  "file": "Crystal Palace from the northeast from Dickinson's Comprehensive Pictures of the Great Exhibition of 1851. 1854.jpg",
+  "author": "Dickinson Brothers",
+  "licence": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:Crystal_Palace_from_the_northeast_from_Dickinson%27s_Comprehensive_Pictures_of_the_Great_Exhibition_of_1851._1854.jpg"
  },
  "cuttings-water": {
   "file": "Ficus cuttings with roots in a bottle, White background.jpg",
@@ -785,11 +917,23 @@
   "licence": "CC BY-SA 3.0",
   "url": "https://commons.wikimedia.org/wiki/File:Small_DC_Motor_Rotor.JPG"
  },
+ "de-beers-mine": {
+  "file": "Washing plant of De Beers Consolidated Mines, Kimberley 1900.jpg",
+  "author": "Unknown authorUnknown author",
+  "licence": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:Washing_plant_of_De_Beers_Consolidated_Mines,_Kimberley_1900.jpg"
+ },
  "decaying-log": {
   "file": "Decaying Log (15400636681).jpg",
   "author": "oatsy40",
   "licence": "CC BY 2.0",
   "url": "https://commons.wikimedia.org/wiki/File:Decaying_Log_(15400636681).jpg"
+ },
+ "delville-wood": {
+  "file": "Architectural element on Delville Wood War Memorial 001.jpg",
+  "author": "PHParsons",
+  "licence": "CC BY-SA 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Architectural_element_on_Delville_Wood_War_Memorial_001.jpg"
  },
  "dew": {
   "file": "Dew drops on grass.jpg",
@@ -850,6 +994,12 @@
   "author": "eCAmpus, dréCAR Software Development",
   "licence": "Own work",
   "url": ""
+ },
+ "diamond-sorting": {
+  "file": "Black and white miners around a diamond sorting table. Kimberley, South Africa, 1800s.jpg",
+  "author": "Unknown authorUnknown author",
+  "licence": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:Black_and_white_miners_around_a_diamond_sorting_table._Kimberley,_South_Africa,_1800s.jpg"
  },
  "distillation-lab": {
   "file": "Distillation Apparatus.jpg",
@@ -935,6 +1085,12 @@
   "licence": "CC BY-SA 2.0",
   "url": "https://commons.wikimedia.org/wiki/File:Large_Copper_Dung_Beetle_(Kheper_nigroaeneus)_rolling_a_dung_ball_(15823074113).jpg"
  },
+ "durban-indian-market": {
+  "file": "Victoria Market, Durban.jpg",
+  "author": "Scotted400",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Victoria_Market,_Durban.jpg"
+ },
  "ear-muffs": {
   "file": "Peltor earmuffs.jpg",
   "author": "JiriMatejicek",
@@ -1007,6 +1163,12 @@
   "licence": "CC0",
   "url": "https://commons.wikimedia.org/wiki/File:Elephant_Herd_Of_Elephants_African_Bush_Elephant.jpg"
  },
+ "emily-hobhouse": {
+  "file": "Emily Hobhouse contra la guerra (20504250545) (2).jpg",
+  "author": "Henry Walter Barnett",
+  "licence": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:Emily_Hobhouse_contra_la_guerra_(20504250545)_(2).jpg"
+ },
  "etiolated-shoots": {
   "file": "Nalaswan barley shoots.jpg",
   "author": "Kamal Ratna Tuladhar",
@@ -1036,6 +1198,12 @@
   "author": "Kudzaitinago",
   "licence": "CC BY-SA 4.0",
   "url": "https://commons.wikimedia.org/wiki/File:A_family_eating_together_in_an_african_village_home.jpg"
+ },
+ "farm-aerial": {
+  "file": "Limpopo.jpg",
+  "author": "Department of Defense. American Forces Information Service. Defense Visual Information Center. 1994",
+  "licence": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:Limpopo.jpg"
  },
  "fast-food": {
   "file": "PERinaise Classic Burger + Reg PERi-PERi Chips + Drink, Nando's Karawara, 2026 (01).jpg",
@@ -1145,6 +1313,12 @@
   "licence": "CC BY-SA 4.0",
   "url": "https://commons.wikimedia.org/wiki/File:Kitchen_food_waste,_vegetable_peelings_%26_coffee_grounds_in_biodegradable_bag.jpg"
  },
+ "freight-train-sa": {
+  "file": "Transnet coal train - empties headed by Class 10 168, 10 065, 10 058 and 10 060 being passed by Coal train - empties headed by 10 096, 10 074 and 10 069 at Kendal. (16730578014).jpg",
+  "author": "Bob Adams from Amanzimtoti, South Africa",
+  "licence": "CC BY-SA 2.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Transnet_coal_train_-_empties_headed_by_Class_10_168,_10_065,_10_058_and_10_060_being_passed_by_Coal_train_-_empties_headed_by_10_096,_10_074_and_10_069_at_Kendal._(16730578014).jpg"
+ },
  "frog-spawn": {
   "file": "Rana temporaria eggs 1.jpg",
   "author": "Emőke Dénes",
@@ -1186,6 +1360,12 @@
   "author": "Abu Shawka",
   "licence": "CC0",
   "url": "https://commons.wikimedia.org/wiki/File:Peninsula_Granite_Fynbos_-_Chapmans_Peak_Cape_Town.JPG"
+ },
+ "gandhi-durban": {
+  "file": "Gandhi Johannesburg 1905.jpg",
+  "author": "Unknown authorUnknown author",
+  "licence": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:Gandhi_Johannesburg_1905.jpg"
  },
  "gariep-dam": {
   "file": "Gariep Dam Wall, Free State, South Africa (20544151311).jpg",
@@ -1270,6 +1450,12 @@
   "author": "BLM Alaska",
   "licence": "Public domain",
   "url": "https://commons.wikimedia.org/wiki/File:Gold_panning_student_(53719323816).jpg"
+ },
+ "golden-stool": {
+  "file": "The Childrens Museum of Indianapolis - Queen Mothers stool.jpg",
+  "author": "Akan peoples, Ghana, Africa",
+  "licence": "CC BY-SA 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:The_Childrens_Museum_of_Indianapolis_-_Queen_Mothers_stool.jpg"
  },
  "granite": {
   "file": "Granite 3 (48674143001).jpg",
@@ -1529,6 +1715,24 @@
   "licence": "CC BY-SA 4.0",
   "url": "https://commons.wikimedia.org/wiki/File:Kruger_National_Park_(ZA),_Impala_--_2024_--_0711.jpg"
  },
+ "indian-labourers-natal": {
+  "file": "Indian indentured labourers on a sugar estate, Mauritius, 1870.jpg",
+  "author": "Unknown authorUnknown author",
+  "licence": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:Indian_indentured_labourers_on_a_sugar_estate,_Mauritius,_1870.jpg"
+ },
+ "industrial-area": {
+  "file": "Ferrobank.jpg",
+  "author": "Ossewa",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Ferrobank.jpg"
+ },
+ "informal-settlement": {
+  "file": "Informal settlement near Elsburg.jpg",
+  "author": "Heather Elke",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Informal_settlement_near_Elsburg.jpg"
+ },
  "ink-chromatography": {
   "file": "BlackInkChromatography.jpg",
   "author": "Oscar",
@@ -1553,6 +1757,12 @@
   "licence": "CC BY-SA 2.0",
   "url": "https://commons.wikimedia.org/wiki/File:Sishen_Mine_ZA_2008_A.jpg"
  },
+ "isandlwana": {
+  "file": "Coddia rudis 4.jpg",
+  "author": "Franz Xaver",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Coddia_rudis_4.jpg"
+ },
  "jackal": {
   "file": "Canis mesomelas.jpg",
   "author": "Hans Hillewaert",
@@ -1570,6 +1780,12 @@
   "author": "Alexander Vasenin",
   "licence": "CC BY-SA 3.0",
   "url": "https://commons.wikimedia.org/wiki/File:Moon_jellyfish_at_Gota_Sagher.JPG"
+ },
+ "john-dube": {
+  "file": "Ohlange High School.jpg",
+  "author": "Pat Cullen",
+  "licence": "CC BY-SA 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Ohlange_High_School.jpg"
  },
  "jupiter": {
   "file": "Portrait of Jupiter from Cassini.jpg",
@@ -1595,6 +1811,12 @@
   "licence": "Public domain",
   "url": "https://commons.wikimedia.org/wiki/File:Kelp_forest_Cojo_Anchorage.PNG"
  },
+ "kente-cloth": {
+  "file": "Different Kente cloth, Tafi, Volta region.jpg",
+  "author": "Warmglow",
+  "licence": "CC0",
+  "url": "https://commons.wikimedia.org/wiki/File:Different_Kente_cloth,_Tafi,_Volta_region.jpg"
+ },
  "kettle": {
   "file": "Electric kettle phillips white.JPG",
   "author": "Rafa",
@@ -1618,6 +1840,18 @@
   "author": "Sanjay Acharya",
   "licence": "CC BY-SA 4.0",
   "url": "https://commons.wikimedia.org/wiki/File:Red_Speckled_Kidney_Beans.jpg"
+ },
+ "kimberley-1870s": {
+  "file": "The diamond diggings of South Africa.jpg",
+  "author": "Félix Élie Régamey",
+  "licence": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:The_diamond_diggings_of_South_Africa.jpg"
+ },
+ "kimberley-siege": {
+  "file": "SA-S654b-Boer War-Mafeking-10 Shillings (1900).jpg",
+  "author": "National Museum of American History",
+  "licence": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:SA-S654b-Boer_War-Mafeking-10_Shillings_(1900).jpg"
  },
  "kitchen-knife": {
   "file": "Kitchen knife made of stainless steel with sliced white cabbage.jpg",
@@ -1655,6 +1889,12 @@
   "licence": "CC BY-SA 2.0",
   "url": "https://commons.wikimedia.org/wiki/File:Greater_Kudu_(Tragelaphus_strepsiceros)_male_browsing_..._(52959601218).jpg"
  },
+ "kumasi-palace": {
+  "file": "Manhyia Palace Ambassador Sullivan Kumasi Tour 5.jpg",
+  "author": "U.S. Embassy Ghana",
+  "licence": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:Manhyia_Palace_Ambassador_Sullivan_Kumasi_Tour_5.jpg"
+ },
  "ladybird": {
   "file": "Ladybug eating aphids. (49485764276).jpg",
   "author": "DAVID S. FERRY III from PLANT CITY,FL., U.S.A.",
@@ -1666,6 +1906,12 @@
   "author": "Rebeccananonof",
   "licence": "CC BY 4.0",
   "url": "https://commons.wikimedia.org/wiki/File:Kiteezi_landfill_gy.jpg"
+ },
+ "langlaagte": {
+  "file": "Struben \"Confidence Reef Mine\" where the Struben brothers Fred & Harry mined gold in 1885, pointed the way to the discovery of the Main Reef on Langlaagte in 1886..JPG",
+  "author": "Rod Kruger",
+  "licence": "CC BY-SA 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Struben_%22Confidence_Reef_Mine%22_where_the_Struben_brothers_Fred_%26_Harry_mined_gold_in_1885,_pointed_the_way_to_the_discovery_of_the_Main_Reef_on_Langlaagte_in_1886..JPG"
  },
  "leaf-section-micro": {
   "file": "Mesophytic Leaf Cross Section Microscope Image.jpg",
@@ -1726,6 +1972,12 @@
   "author": "Charles J. Sharp",
   "licence": "CC BY-SA 4.0",
   "url": "https://commons.wikimedia.org/wiki/File:Leopard_(Panthera_pardus_pardus)_young_female_Kruger_2.jpg"
+ },
+ "leopold-congo": {
+  "file": "Punch congo rubber cartoon.jpg",
+  "author": "Edward Linley Sambourne",
+  "licence": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:Punch_congo_rubber_cartoon.jpg"
  },
  "lichen": {
   "file": "Lichen on rock.jpg",
@@ -1793,6 +2045,12 @@
   "licence": "CC BY-SA 4.0",
   "url": "https://commons.wikimedia.org/wiki/File:Lizard_eating_insect.jpg"
  },
+ "locomotion-no1": {
+  "file": "Locomotion No. 1 New Bridge.jpg",
+  "author": "Kabelleger",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Locomotion_No._1_New_Bridge.jpg"
+ },
  "locust": {
   "file": "Desert locust - Wüstenheuschrecke - Criquet pèlerin - Schistocerca gregaria.jpg",
   "author": "NorbertNagel",
@@ -1852,6 +2110,12 @@
   "author": "Knowledge and philosophy",
   "licence": "CC BY-SA 4.0",
   "url": "https://commons.wikimedia.org/wiki/File:Tassels_of_maize_2.jpg"
+ },
+ "manchester-mills": {
+  "file": "Ancoats- Beehive 4469.JPG",
+  "author": "Clem Rutter, Rochester, Kent.",
+  "licence": "CC BY-SA 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Ancoats-_Beehive_4469.JPG"
  },
  "mandela-bridge": {
   "file": "Johannesburg, Nelson Mandela Bridge.jpg",
@@ -1936,6 +2200,12 @@
   "author": "Chad Anderson, staff photographer for SFO Museum",
   "licence": "CC BY-SA 2.0",
   "url": "https://commons.wikimedia.org/wiki/File:Binocular_compound_microscope,_Carl_Zeiss_Jena,_1914_(6779276516).jpg"
+ },
+ "migrant-miners": {
+  "file": "Chinese Mine Workers- South Africa.jpg",
+  "author": "Unknown Uploaded by Discott at en.wikipedia",
+  "licence": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:Chinese_Mine_Workers-_South_Africa.jpg"
  },
  "milk": {
   "file": "Plastic bottle of milk.jpg",
@@ -2045,6 +2315,12 @@
   "licence": "CC BY 2.0",
   "url": "https://commons.wikimedia.org/wiki/File:Mytilus_sp._(mussels)_%26_Pollicipes_polymerus_(gooseneck_barnacles)_(Yaquina_Head,_Oregon,_USA).jpg"
  },
+ "myciti-bus": {
+  "file": "MyCiTi Bus and Station in Milnerton, Cape Town.jpg",
+  "author": "Husskeyy",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:MyCiTi_Bus_and_Station_in_Milnerton,_Cape_Town.jpg"
+ },
  "nail-clipper": {
   "file": "People using nail cutters 01.jpg",
   "author": "Mostafameraji",
@@ -2056,6 +2332,12 @@
   "author": "Luca Galuzzi (Lucag)",
   "licence": "CC BY-SA 2.5",
   "url": "https://commons.wikimedia.org/wiki/File:Sossusvlei_Dune_Namib_Desert_Namibia_Luca_Galuzzi_2004.JPG"
+ },
+ "native-life-book": {
+  "file": "Solomon Tshekisho Plaatje - Mhudi (page 5 crop).png",
+  "author": "Sol Plaatjie",
+  "licence": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:Solomon_Tshekisho_Plaatje_-_Mhudi_(page_5_crop).png"
  },
  "nature-reserve": {
   "file": "Bosluiskop (ZA), Robberg Nature Reserve, Küste -- 2024 -- 2202.jpg",
@@ -2110,6 +2392,18 @@
   "author": "Cecil Dzwowa",
   "licence": "CC BY-SA 4.0",
   "url": "https://commons.wikimedia.org/wiki/File:Nurse_attendding_to_a_sick_school_girl.jpg"
+ },
+ "oblique-aerial-town": {
+  "file": "Aerial Photographs of Chateau-Thierry Sector with Ground Photographs and Interpretations, Sector Held by 1st Corps U.S. Army - NARA - 36213482 (page 6).jpg",
+  "author": "Unknown authorUnknown author or not provided",
+  "licence": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:Aerial_Photographs_of_Chateau-Thierry_Sector_with_Ground_Photographs_and_Interpretations,_Sector_Held_by_1st_Corps_U.S._Army_-_NARA_-_36213482_(page_6).jpg"
+ },
+ "oil-tanker": {
+  "file": "Oil Products Tanker MP MR Tanker 2 and Crude Oil Tanker Njord DF at BP Oil Refinery Jetty, bulk carrier BLC First at Kwinana Bulk Jetty, October 2023 03.jpg",
+  "author": "Calistemon",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Oil_Products_Tanker_MP_MR_Tanker_2_and_Crude_Oil_Tanker_Njord_DF_at_BP_Oil_Refinery_Jetty,_bulk_carrier_BLC_First_at_Kwinana_Bulk_Jetty,_October_2023_03.jpg"
  },
  "old-telephone": {
   "file": "Grey rotary dial telephone.jpg",
@@ -2243,6 +2537,12 @@
   "licence": "Public domain",
   "url": "https://commons.wikimedia.org/wiki/File:PIA24836_Perseverance%27s_Selfie_at_Rochette.jpg"
  },
+ "peterloo": {
+  "file": "Earthenware plaque (Peterloo massacre), 1819.jpg",
+  "author": "Brigade Piron",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Earthenware_plaque_(Peterloo_massacre),_1819.jpg"
+ },
  "petrol-pump": {
   "file": "Petrol pump mp3h0355.jpg",
   "author": "Rama",
@@ -2284,6 +2584,12 @@
   "author": "M J Hurter",
   "licence": "CC0",
   "url": "https://commons.wikimedia.org/wiki/File:Forests_near_Sabie.jpg"
+ },
+ "pixley-seme": {
+  "file": "Pixley ka Isaka Seme 001.jpg",
+  "author": "AnonymousUnknown author",
+  "licence": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:Pixley_ka_Isaka_Seme_001.jpg"
  },
  "plankton": {
   "file": "Live Copepods under Microscope – Black Background (Macro Photography).jpg",
@@ -2357,6 +2663,12 @@
   "licence": "CC BY-SA 3.0",
   "url": "https://commons.wikimedia.org/wiki/File:South_African_Cape_Porcupine,_Hystrix_africaeaustralis;_porcupine_quills_close_up.JPG"
  },
+ "port-of-durban": {
+  "file": "Durban container port (24747434937).jpg",
+  "author": "Media Club",
+  "licence": "CC BY-SA 2.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Durban_container_port_(24747434937).jpg"
+ },
  "potato-starch-iodine": {
   "file": "Potato amyloplasts stained with Lugol’s solution.jpg",
   "author": "Aleromjar1403",
@@ -2386,6 +2698,12 @@
   "author": "Bruce Paulmac",
   "licence": "CC BY-SA 3.0",
   "url": "https://commons.wikimedia.org/wiki/File:Kendal_Power_Station.jpg"
+ },
+ "prempeh": {
+  "file": "2145 The deported King Prempeh of Asante and his attendants.jpeg",
+  "author": "Unknown authorUnknown author",
+  "licence": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:2145_The_deported_King_Prempeh_of_Asante_and_his_attendants.jpeg"
  },
  "prepaid-meter": {
   "file": "Prepaid electric meter Austria Kopie.jpg",
@@ -2452,6 +2770,12 @@
   "author": "Emran Kassim",
   "licence": "CC BY 2.0",
   "url": "https://commons.wikimedia.org/wiki/File:Rain_coat_(3705441959).jpg"
+ },
+ "rdp-houses": {
+  "file": "Rdphouses.jpg",
+  "author": "ign11",
+  "licence": "CC BY 2.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Rdphouses.jpg"
  },
  "rebar": {
   "file": "A bunch of rebar up close.jpg",
@@ -2573,6 +2897,12 @@
   "licence": "CC0",
   "url": "https://commons.wikimedia.org/wiki/File:Cup_of_rooibos_tea_(23427608102).jpg"
  },
+ "rorkes-drift": {
+  "file": "The Rorke's Drift, Brecon - geograph.org.uk - 3161729.jpg",
+  "author": "Jaggery",
+  "licence": "CC BY-SA 2.0",
+  "url": "https://commons.wikimedia.org/wiki/File:The_Rorke%27s_Drift,_Brecon_-_geograph.org.uk_-_3161729.jpg"
+ },
  "rubber-bands": {
   "file": "Rubber bands - Colors - Studio photo 2011.jpg",
   "author": "Bill Ebbesen",
@@ -2627,11 +2957,23 @@
   "licence": "CC BY-SA 4.0",
   "url": "https://commons.wikimedia.org/wiki/File:Sand_quarry_Geromont_Landscape.jpg"
  },
+ "sandile": {
+  "file": "Mgolombane Sandile - Xhosa Chief.jpg",
+  "author": "AnonymousUnknown author",
+  "licence": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:Mgolombane_Sandile_-_Xhosa_Chief.jpg"
+ },
  "sandwich": {
   "file": "Tuna fish sandwiches for the National School Lunch Program (2).jpg",
   "author": "U.S. Department of Agriculture",
   "licence": "Public domain",
   "url": "https://commons.wikimedia.org/wiki/File:Tuna_fish_sandwiches_for_the_National_School_Lunch_Program_(2).jpg"
+ },
+ "sarajevo-assassination": {
+  "file": "DC-1914-27-d-Sarajevo-cropped.jpg",
+  "author": "Achille Beltrame",
+  "licence": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:DC-1914-27-d-Sarajevo-cropped.jpg"
  },
  "sardine-shoal": {
   "file": "School of sardines at the Monterey Bay Aquarium (12056).jpg",
@@ -2693,6 +3035,18 @@
   "licence": "CC BY-SA 4.0",
   "url": "https://commons.wikimedia.org/wiki/File:Fresh_Seedling_After_Rainfall.jpg"
  },
+ "sekhukhune": {
+  "file": "LL1882 pg008 SIKUKUNI.jpg",
+  "author": "unknown",
+  "licence": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:LL1882_pg008_SIKUKUNI.jpg"
+ },
+ "shaka-zulu-statue": {
+  "file": "KingShaka.jpg",
+  "author": "James King",
+  "licence": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:KingShaka.jpg"
+ },
  "sheep-shearing": {
   "file": "Sheep Shearing - Dorset County Show 2025 - 54788781421.jpg",
   "author": "Stephen and Helen Jones",
@@ -2705,11 +3059,23 @@
   "licence": "CC BY-SA 2.0",
   "url": "https://commons.wikimedia.org/wiki/File:Border_collie_penning_at_Ballogie.jpg"
  },
+ "shopping-mall": {
+  "file": "Yellow Suzuki GSX-R at Sunnypark Shopping Centre, South Africa.jpg",
+  "author": "Thulani Godfrey Timba",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Yellow_Suzuki_GSX-R_at_Sunnypark_Shopping_Centre,_South_Africa.jpg"
+ },
  "ska-site": {
   "file": "SKA site, South Africa 2014 59.jpg",
   "author": "Photograph by Mike Peel (www.mikepeel.net).",
   "licence": "CC BY-SA 4.0",
   "url": "https://commons.wikimedia.org/wiki/File:SKA_site,_South_Africa_2014_59.jpg"
+ },
+ "slum-london": {
+  "file": "Dore London.jpg",
+  "author": "Gustave Doré",
+  "licence": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:Dore_London.jpg"
  },
  "smartphone": {
   "file": "Smartphone display screen.jpg",
@@ -2740,6 +3106,12 @@
   "author": "No machine-readable author provided. Lacrimosus assumed (based on copyright claims).",
   "licence": "Public domain",
   "url": "https://commons.wikimedia.org/wiki/File:A_bar_of_soap.jpg"
+ },
+ "sol-plaatje": {
+  "file": "Class Afro4000 4010 b.jpg",
+  "author": "Col André Kritzinger",
+  "licence": "CC BY-SA 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Class_Afro4000_4010_b.jpg"
  },
  "solar-eclipse": {
   "file": "Total Solar Eclipse 8-21-17.jpg",
@@ -2777,6 +3149,12 @@
   "licence": "CC BY-SA 3.0",
   "url": "https://commons.wikimedia.org/wiki/File:Constellation_Crux.jpg"
  },
+ "soweto-aerial": {
+  "file": "Soccer City Stadium, Johannesburg, South Africa Detail.jpg",
+  "author": "NASA Goddard Space Flight Center",
+  "licence": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:Soccer_City_Stadium,_Johannesburg,_South_Africa_Detail.jpg"
+ },
  "space-station": {
   "file": "STS-134 International Space Station after undocking.jpg",
   "author": "NASA",
@@ -2807,6 +3185,12 @@
   "licence": "CC BY 3.0",
   "url": "https://commons.wikimedia.org/wiki/File:Spinach_leaves.jpg"
  },
+ "spinning-jenny": {
+  "file": "Falls Mill Spinning And Weaving-1080785.jpg",
+  "author": "Kmdugger",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Falls_Mill_Spinning_And_Weaving-1080785.jpg"
+ },
  "sponge": {
   "file": "Sponge-viscose.jpg",
   "author": "Johan",
@@ -2825,11 +3209,23 @@
   "licence": "CC BY-SA 3.0",
   "url": "https://commons.wikimedia.org/wiki/File:Antidorcas_marsupialis,_male_(Etosha,_2012).jpg"
  },
+ "ss-mendi": {
+  "file": "SS Mendi UCT.jpg",
+  "author": "Axxter99",
+  "licence": "CC BY-SA 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:SS_Mendi_UCT.jpg"
+ },
  "st-lucia-estuary": {
   "file": "St. Lucia Estuary ... (46391239615).jpg",
   "author": "Bernard DUPONT from FRANCE",
   "licence": "CC BY-SA 2.0",
   "url": "https://commons.wikimedia.org/wiki/File:St._Lucia_Estuary_..._(46391239615).jpg"
+ },
+ "star-of-africa-diamond": {
+  "file": "Uncut diamonds gathered by five different mines in two days, Kimberley, South Africa LCCN92510043.jpg",
+  "author": "Frank and Frances Carpenter Collection",
+  "licence": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:Uncut_diamonds_gathered_by_five_different_mines_in_two_days,_Kimberley,_South_Africa_LCCN92510043.jpg"
  },
  "starfish": {
   "file": "Common starfish - torbay.jpg",
@@ -2903,6 +3299,12 @@
   "licence": "CC BY-SA 2.0",
   "url": "https://commons.wikimedia.org/wiki/File:Electrical_substation_near_Rawthorpe_-_geograph.org.uk_-_6383564.jpg"
  },
+ "suffragette": {
+  "file": "Mrs Emmeline Pankhurst, Leader of the Women's Suffragette movement, is arrested outside Buckingham Palace while trying to present a petition to King George V in May 1914. Q81486.jpg",
+  "author": "Unknown authorUnknown author",
+  "licence": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:Mrs_Emmeline_Pankhurst,_Leader_of_the_Women%27s_Suffragette_movement,_is_arrested_outside_Buckingham_Palace_while_trying_to_present_a_petition_to_King_George_V_in_May_1914._Q81486.jpg"
+ },
  "sugar": {
   "file": "Granulated White Sugar with Large Crystals, Bright Front Light.jpg",
   "author": "Tobias Erbsland",
@@ -2920,6 +3322,12 @@
   "author": "Dandy1022",
   "licence": "CC BY-SA 3.0",
   "url": "https://commons.wikimedia.org/wiki/File:Sugarcane_harvesting_in_Banate.jpg"
+ },
+ "sugar-cane-natal": {
+  "file": "ISS014-E-10809 - View of South Africa.jpg",
+  "author": "Earth Science and Remote Sensing Unit, Lyndon B. Johnson Space Center",
+  "licence": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:ISS014-E-10809_-_View_of_South_Africa.jpg"
  },
  "sugar-cubes": {
   "file": "Sugar cubes V1.jpg",
@@ -3053,6 +3461,12 @@
   "licence": "CC BY 2.0",
   "url": "https://commons.wikimedia.org/wiki/File:Mound_of_snouted_harvester_termites,_probably_Trinervitermites_sp,_at_Marakele_National_Park,_Limpopo,_South_Africa._-_46757100812.jpg"
  },
+ "thaba-bosiu": {
+  "file": "685 Thaba Bosiu.jpg",
+  "author": "Marduk",
+  "licence": "CC0",
+  "url": "https://commons.wikimedia.org/wiki/File:685_Thaba_Bosiu.jpg"
+ },
  "thatching": {
   "file": "Lwamondo Tshivhale- Roof being thatched - panoramio.jpg",
   "author": "Azwi",
@@ -3113,6 +3527,12 @@
   "licence": "CC BY 2.0",
   "url": "https://commons.wikimedia.org/wiki/File:Toilet_paper_roll_with_two_cardboard_tubes_(6785179871).jpg"
  },
+ "tolpuddle": {
+  "file": "Great British Trees plaque at the bottom of the Tolpuddle Martyrs Tree, Tolpuddle, 2024.jpg",
+  "author": "DimiTalen",
+  "licence": "CC0",
+  "url": "https://commons.wikimedia.org/wiki/File:Great_British_Trees_plaque_at_the_bottom_of_the_Tolpuddle_Martyrs_Tree,_Tolpuddle,_2024.jpg"
+ },
  "tomato-seeds": {
   "file": "Tomato seeds that sprouted while inside the tomato 01.jpg",
   "author": "Jay Dobkin",
@@ -3149,6 +3569,12 @@
   "licence": "CC BY 3.0 de",
   "url": "https://commons.wikimedia.org/wiki/File:Tower_crane,_close-up.jpg"
  },
+ "township-street": {
+  "file": "School children (Lukhanyo Primary School, Zwelihle Township (Hermanus, South Africa) b 05.jpg",
+  "author": "Godot13",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:School_children_(Lukhanyo_Primary_School,_Zwelihle_Township_(Hermanus,_South_Africa)_b_05.jpg"
+ },
  "toy-car": {
   "file": "Antique green wind-up toy car (25065073374).jpg",
   "author": "Thomas Quine",
@@ -3160,6 +3586,12 @@
   "author": "GeorgeRexTA [at gmail [dot] com]",
   "licence": "CC BY-SA 2.0",
   "url": "https://commons.wikimedia.org/wiki/File:Toy_Robot,_large.jpg"
+ },
+ "traffic-jam": {
+  "file": "Photograph of Shirley Highway During Evening Rush Hour Traffic - NARA - 546644.jpg",
+  "author": "Unknown authorUnknown author or not provided",
+  "licence": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:Photograph_of_Shirley_Highway_During_Evening_Rush_Hour_Traffic_-_NARA_-_546644.jpg"
  },
  "traffic-light": {
   "file": "Traffic lights at Manchester St, Christchurch, New Zealand 04.jpg",
@@ -3203,11 +3635,23 @@
   "licence": "CC0",
   "url": "https://commons.wikimedia.org/wiki/File:Tuning_Fork_288_HZ.jpg"
  },
+ "ulundi-battle": {
+  "file": "The burning of Ulundi.jpg",
+  "author": "AnonymousUnknown author",
+  "licence": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:The_burning_of_Ulundi.jpg"
+ },
  "umbrella": {
   "file": "Not fully opened umbrella from inside.jpg",
   "author": "ThomasLendt",
   "licence": "CC BY-SA 4.0",
   "url": "https://commons.wikimedia.org/wiki/File:Not_fully_opened_umbrella_from_inside.jpg"
+ },
+ "union-1910": {
+  "file": "General Louis Botha, Union of South Africa.jpg",
+  "author": "The Marion daily mirror. (Marion, Ohio), 06 June 1910. Chronicling America: Historic American Newspapers. Lib. of Congress.",
+  "licence": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:General_Louis_Botha,_Union_of_South_Africa.jpg"
  },
  "union-buildings": {
   "file": "Union Buildings Pretoria 09.jpg",
@@ -3262,6 +3706,24 @@
   "author": "NASA/JPL",
   "licence": "Public domain",
   "url": "https://commons.wikimedia.org/wiki/File:Venus_globe.jpg"
+ },
+ "vereeniging-1902": {
+  "file": "Table where treaty was signed.JPG",
+  "author": "AmandaCalitz",
+  "licence": "CC BY-SA 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Table_where_treaty_was_signed.JPG"
+ },
+ "versailles-signing": {
+  "file": "Sketch of the Table in the Hall of Mirrors, at which the Treaty of Versailles was Signed Art.IWMART4213.jpg",
+  "author": "Herbert Arnould Olivier",
+  "licence": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:Sketch_of_the_Table_in_the_Hall_of_Mirrors,_at_which_the_Treaty_of_Versailles_was_Signed_Art.IWMART4213.jpg"
+ },
+ "vertical-aerial-town": {
+  "file": "Balkhash9-landsat.jpg",
+  "author": "NASA",
+  "licence": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:Balkhash9-landsat.jpg"
  },
  "vesta-ceres": {
   "file": "Hubble Images of Asteroids Vesta and Ceres.jpg",
@@ -3353,11 +3815,23 @@
   "licence": "Public domain",
   "url": "https://commons.wikimedia.org/wiki/File:20200530_152322_A_girl_pours_water_from_a_bucket_on_an_oak_sapling.jpg"
  },
+ "watt-steam-engine": {
+  "file": "Maquina vapor Watt ETSIIM.jpg",
+  "author": "Nicolás Pérez",
+  "licence": "CC BY-SA 3.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Maquina_vapor_Watt_ETSIIM.jpg"
+ },
  "weaver-nest": {
   "file": "Black-headed weaver (Ploceus cucullatus bohndorffi) male nest building.jpg",
   "author": "Charles J. Sharp",
   "licence": "CC BY-SA 4.0",
   "url": "https://commons.wikimedia.org/wiki/File:Black-headed_weaver_(Ploceus_cucullatus_bohndorffi)_male_nest_building.jpg"
+ },
+ "weaving-loom": {
+  "file": "Manchester of Assam- Sualkuchi.jpg",
+  "author": "Bhrigu bayan",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Manchester_of_Assam-_Sualkuchi.jpg"
  },
  "wetland": {
   "file": "Greater St. Lucia Wetland Park,South Africa.jpg",
@@ -3376,6 +3850,12 @@
   "author": "Amin",
   "licence": "CC BY-SA 4.0",
   "url": "https://commons.wikimedia.org/wiki/File:Whole_grain_bread_wheat.jpg"
+ },
+ "wilfred-owen": {
+  "file": "Wilfred Owen sculpture by Anthony D Padgett next to cap.jpg",
+  "author": "Anthonydpadgett",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Wilfred_Owen_sculpture_by_Anthony_D_Padgett_next_to_cap.jpg"
  },
  "willow-tree": {
   "file": "Weeping willow tree, Mullaghmore - geograph.org.uk - 7442190.jpg",
@@ -3413,6 +3893,12 @@
   "licence": "CC BY-SA 4.0",
   "url": "https://commons.wikimedia.org/wiki/File:Rice_winnowing_at_Pambeguwa_03.jpg"
  },
+ "women-munitions": {
+  "file": "Women's War work during the First World War, Woolwich, 1918 Q27881.jpg",
+  "author": "George P. Lewis",
+  "licence": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:Women%27s_War_work_during_the_First_World_War,_Woolwich,_1918_Q27881.jpg"
+ },
  "wooden-ladder": {
   "file": "WOODEN LADDER.jpg",
   "author": "Nadinviki",
@@ -3437,11 +3923,29 @@
   "licence": "CC0",
   "url": "https://commons.wikimedia.org/wiki/File:Wool_yarn_of_3_Suisses,_brand_Mirabelle.jpg"
  },
+ "ww1-recruitment-poster": {
+  "file": "(Kitchener) Your Country Needs You.jpg",
+  "author": "Alfred Leete",
+  "licence": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:(Kitchener)_Your_Country_Needs_You.jpg"
+ },
+ "ww1-trench": {
+  "file": "NLS Haig - Watching the Boche trench through a periscope.jpg",
+  "author": "John Warwick Brooke",
+  "licence": "Public domain",
+  "url": "https://commons.wikimedia.org/wiki/File:NLS_Haig_-_Watching_the_Boche_trench_through_a_periscope.jpg"
+ },
  "xylophone": {
   "file": "Xylophone Metallophone IMG 9447.jpg",
   "author": "א ח מנינור שבשמים",
   "licence": "CC BY-SA 4.0",
   "url": "https://commons.wikimedia.org/wiki/File:Xylophone_Metallophone_IMG_9447.jpg"
+ },
+ "yaa-asantewaa": {
+  "file": "Yaa Asantewaa Museum (4).jpg",
+  "author": "Noahalorwu",
+  "licence": "CC BY-SA 4.0",
+  "url": "https://commons.wikimedia.org/wiki/File:Yaa_Asantewaa_Museum_(4).jpg"
  },
  "zebras": {
   "file": "Herd of Zebra in Front of a Mountain.jpg",
